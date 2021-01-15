@@ -1,4 +1,4 @@
-# final
+# ntut_107ab0732曾子芸
 
 在ch8章節中
 用到了hashing trick和機器學習
